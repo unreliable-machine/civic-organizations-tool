@@ -1,8 +1,10 @@
 # Civic Organizations Intelligence Tool
 
+> **Status:** Active
+
 Open WebUI tool for searching nonprofit organizations and discovering coalition partners.
 
-Part of the [Civic Intelligence Platform](https://github.com/unreliable-machine/civic-tools) for [Change Agent AI](https://thechange.ai).
+Part of the [Change Agent Civic Intelligence Platform](https://github.com/unreliable-machine/civic-tools/blob/main/PLATFORM.md).
 
 ## Installation
 
